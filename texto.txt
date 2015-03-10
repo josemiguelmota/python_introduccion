@@ -1,0 +1,4 @@
+Este es el texto que se 
+encuentra en el fichero
+no dejeis de ver las bondades
+de python.
